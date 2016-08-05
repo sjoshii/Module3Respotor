@@ -3,13 +3,13 @@ html {
 }
 
 body {
-	background: #3F403F;
+	background: white;
 }
 
 #header-nav {
 	border: 0;
 	border-radius: 0;
-	background: rgb(71, 88, 65);
+	background: grey;
 }
 
 #brand {
